@@ -9,4 +9,9 @@ Agrego esta linea porque me pinto
 
 JUGAR AL HONKAI STAR RAIL, AGAIN
 
+<<<<<<< HEAD
+=======
+JUGAR AL HONKAI STAR RAIL, AGAIN
+
+>>>>>>> cabecera
 JUGAR AL HONKAI STAR RAIL, AGAIN
