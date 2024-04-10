@@ -1,10 +1,14 @@
 Archivo de prueba Jonathan.
 
-Tengo 31 años
+Tengo 32 años
 
 Soy de aries.
 
 Agrego esta linea porque quiero
 
 
+<<<<<<< HEAD
 Agrego linea 10 a Main
+=======
+Agrego esta linea a cabecera
+>>>>>>> cabecera
