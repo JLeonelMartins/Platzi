@@ -4,6 +4,8 @@ Leonel tiene 32 y nacio en la web
 
 Tengo 32 años
 
+Ambos tenemos la misma edad
+
 Soy de aries, el mejor signo.
 
 Agrego esta linea porque quiero
